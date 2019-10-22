@@ -1,0 +1,5 @@
+deb-pkg-tut (0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Tim K <tkuester@unknown>  Tue, 22 Oct 2019 18:55:43 -0400
