@@ -1,1 +1,6 @@
+debian/*debhelper*
+debian/*substvars
+debian/files
+
+debian/deb-pkg-tut
 pkgtut
