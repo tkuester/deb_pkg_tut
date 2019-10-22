@@ -1,4 +1,4 @@
-deb-pkg-tut (0.1-1) unstable; urgency=medium
+deb-pkg-tut (0.1) unstable; urgency=medium
 
   * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
 
